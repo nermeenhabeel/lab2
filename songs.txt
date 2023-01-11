@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 first from master
 second from happy songs
+=======
+third from sad songs 
+>>>>>>> sadsongs
